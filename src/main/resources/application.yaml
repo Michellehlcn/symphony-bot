@@ -1,0 +1,26 @@
+bdk:
+  host: develop2.symphony.com
+
+  bot:
+    username: test-bot
+    privateKey:
+      path: rsa/privatekey.pem
+
+logging:
+  level:
+    com.symphony: debug
+
+# Enter Configuration
+# keyManager:
+#   host: my-key-manager.mycompany.com
+#   port: 8443
+# agent:
+#   host: my-agent.mycompany.com
+# pod:
+#   proxy:
+#     host: my-proxy
+#     port: 8080
+# ssl:
+#   trustStorePath: certs/truststore_file
+#   trustStorePassword: changeit
+
