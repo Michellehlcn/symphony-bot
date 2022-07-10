@@ -2,7 +2,7 @@ bdk:
   host: develop2.symphony.com
 
   bot:
-    username: test-bot
+    username: devcertbot2367
     privateKey:
       path: rsa/privatekey.pem
 
